@@ -2,6 +2,5 @@
 
 [Introduction](introduction.md)
 
-## Getting started
-
+- [Outline](outline.md)
 
